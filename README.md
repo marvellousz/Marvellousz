@@ -5,48 +5,48 @@
 </picture>
 
 <br/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwZnN6YTluZmFmNWN1ajh4MmdzYjh6a2l1cHphd2tkYXVzOGd5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XvVfKCncJIOY/giphy.gif" width="160" height="160" style="min-height: 160px;" />
+<img src="https://media0.giphy.com/media/XvVfKCncJIOY/giphy.gif" width="160" height="160" style="min-height: 160px;" />
 <br/>
 <br/>
 
+<!-- cs student -->
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=cs+student+at+vit+vellore" />
    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=cs+student+at+vit+vellore" />
    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=cs+student+at+vit+vellore" />
 </picture>
 
+<!-- startups + mnc line -->
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=swe+intern+%40+loopless%2C+fullstack+dev+%40+valley-ai" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=swe+intern+%40+loopless%2C+fullstack+dev+%40+valley-ai" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=swe+intern+%40+loopless%2C+fullstack+dev+%40+valley-ai" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=worked+across+three+startups+valley+ai,+loopless,+moon+finance,+and+one+mnc+hexaware" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=worked+across+three+startups+valley+ai,+loopless,+moon+finance,+and+one+mnc+hexaware" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=worked+across+three+startups+valley+ai,+loopless,+moon+finance,+and+one+mnc+hexaware" />
 </picture>
 
+<!-- systems built -->
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=contributed+to+opensource+projects%2C+won+multiple+hackathons" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=contributed+to+opensource+projects%2C+won+multiple+hackathons" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=contributed+to+opensource+projects%2C+won+multiple+hackathons" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=built+ai+systems,+web+platforms,+backend+services,+and+cloud+deployments" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=built+ai+systems,+web+platforms,+backend+services,+and+cloud+deployments" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=built+ai+systems,+web+platforms,+backend+services,+and+cloud+deployments" />
 </picture>
 
+<!-- I build... -->
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=built+personal+projects+that+include+a+wide+range+of+skillset+like+web%2C+ai%2C+linux+and+windows/>
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=built+personal+projects+that+include+a+wide+range+of+skillset+like+web%2C+ai%2C+linux+and+windows" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=built+personal+projects+that+include+a+wide+range+of+skillset+like+web%2C+ai%2C+linux+and+windows" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=i+build+webapps,+ai+systems,+automation+tools,+and+fullstack+platforms" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=i+build+webapps,+ai+systems,+automation+tools,+and+fullstack+platforms" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=i+build+webapps,+ai+systems,+automation+tools,+and+fullstack+platforms" />
 </picture>
 
+<!-- tech stack -->
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=i+build+webapps%2C+ai+systems%2C+software+platforms+and+tools" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=i+build+webapps%2C+ai+systems%2C+software+platforms+and+tools" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=i+build+webapps%2C+ai+systems%2C+software+platforms+and+tools" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=tech+stack+includes+next.js,+react,+node.js,+typescript,+python,+go,+fastapi,+spring+boot,+postgres,+mongo,+docker,+aws,+and+azure" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=tech+stack+includes+next.js,+react,+node.js,+typescript,+python,+go,+fastapi,+spring+boot,+postgres,+mongo,+docker,+aws,+and+azure" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=tech+stack+includes+next.js,+react,+node.js,+typescript,+python,+go,+fastapi,+spring+boot,+postgres,+mongo,+docker,+aws,+and+azure" />
 </picture>
 
+<!-- open to roles -->
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=tech+stack%3A+next.js%2C+node.js%2C+ts%2C+python%2C+go%2C+postgres%2C+mongo+and+cloud" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=tech+stack%3A+next.js%2C+node.js%2C+ts%2C+python%2C+go%2C+postgres%2C+mongo+and+cloud" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=tech+stack%3A+next.js%2C+node.js%2C+ts%2C+python%2C+go%2C+postgres%2C+mongo+and+cloud" />
-</picture>
-
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=open+to+fulltime+roles" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=open+to+fulltime+roles" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=open+to+fulltime+roles" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=open+to+full+time+roles" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=open+to+full+time+roles" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=open+to+full+time+roles" />
 </picture>
