@@ -16,9 +16,9 @@
 </picture>
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=worked+across+three+startups+valley+ai%2C+loopless%2C+moon+finance%2C+and+one+mnc+hexaware" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=worked+across+three+startups+valley+ai%2C+loopless%2C+moon+finance%2C+and+one+mnc+hexaware" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=worked+across+three+startups+valley+ai%2C+loopless%2C+moon+finance%2C+and+one+mnc+hexaware" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=worked+across+three+startups+wise+ai%2C+loopless%2C+moon+finance%2C+and+one+mnc+hexaware" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=worked+across+three+startups+wise+ai%2C+loopless%2C+moon+finance%2C+and+one+mnc+hexaware" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=worked+across+three+startups+wise+ai%2C+loopless%2C+moon+finance%2C+and+one+mnc+hexaware" />
 </picture>
 
 <picture>
